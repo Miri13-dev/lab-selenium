@@ -1,0 +1,6 @@
+[
+  "test_pom.py::test_ejecucion_pom",
+  "test_tienda.py::test_agregar_al_carrito",
+  "test_tienda.py::test_login_exitoso",
+  "test_tienda.py::test_login_fallido"
+]
